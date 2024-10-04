@@ -43,9 +43,7 @@ I am a backend developer with a keen interest in building scalable software solu
 ---
 
 ## 📈 GitHub Activity Graph
-![Jeya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=react-dark)
+![Jeya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeyaprakashse&theme=react-dark)
 
-## 🏆 LeetCode Stats
-![Hacker Rank](https://www.hackerrank.com/profile/jeyaprakashse)
 
 Feel free to explore my [portfolio](#) or connect with me for collaboration and discussion!
