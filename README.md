@@ -34,7 +34,7 @@ I am a backend developer with a keen interest in building scalable software solu
 - **Languages**: Java, Python, HTML, CSS
 
 ## 📊 GitHub Stats
-![Jeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![Jeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyaprakashse&show_icons=true&theme=dark)
 
 ## ⚡ Fun Fact
 - Besides coding, I’m a big fan of cricket and enjoy playing it during my free time.
