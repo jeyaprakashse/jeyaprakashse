@@ -42,8 +42,4 @@ I am a backend developer with a keen interest in building scalable software solu
 - My favorite debugging technique? Taking a **coffee break** and hoping the bug fixes itself.
 ---
 
-## 📈 GitHub Activity Graph
-![Jeya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeyaprakashse&theme=react-dark)
-
-
 Feel free to explore my [portfolio](#) or connect with me for collaboration and discussion!
