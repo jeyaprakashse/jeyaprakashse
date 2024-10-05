@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Jeya
 
-### 🚀 I'm Programmer
+### 🚀 I'm Programmer.
 
 I am a backend developer with a keen interest in building scalable software solutions and exploring new technologies. I thrive on problem-solving, collaborating with talented professionals, and contributing to impactful projects.
 
