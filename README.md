@@ -24,7 +24,6 @@ I am a backend developer with a keen interest in building scalable software solu
 
 ## 💬 Ask Me About
 - Tech stacks like **Java**, **Spring Boot**, **Hibernate**, and **Microservices**.
-- Tips on preparing for **coding interviews** and **placements**.
 - Strategies for creating efficient **RESTful APIs** and handling **database management**.
 
 ## 💻 My Development Setup
